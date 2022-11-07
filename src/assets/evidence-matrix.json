@@ -1,0 +1,186 @@
+[
+  [
+    "Spirit",
+    ["Spirit Box", "Ghost Writing", "EMF 5"],
+    [
+      "Utilizar un incienso con menos de 50% de cordura en la habitación y si no ataca por 3 minutos, puede tratarse de un Espíritu"
+    ]
+  ],
+  [
+    "Wraith",
+    ["Spirit Box", "EMF 5", "DOTS"],
+    [
+      "Colocar varios montones de sal para que el fantasma los pise y ver si su huella es visible bajo la linterna UV.",
+      "Si algún jugador obtiene una lectura de EMF nivel 2 o 5 aleatoria y lejos de la habitación, puede significar que el Espectro se está teletransportando."
+    ]
+  ],
+  [
+    "Phantom",
+    ["Spirit Box", "Fingerprints", "DOTS"],
+    [
+      "Al sacarle una foto, el Ente desaparecerá y en la evidencia fotográfica del cuaderno aparecerá invisible"
+    ]
+  ],
+  [
+    "Poltergeist",
+    ["Spirit Box", "Fingerprints", "Ghost Writing"],
+    [
+      "Observar si los objetos de la sala están en otro lugar o tirados en el piso.",
+      "Si se nota una disminución rápida de la cordura luego de presenciar objetos arrojados, puede tratarse de un Poltergeist."
+    ]
+  ],
+  [
+    "Banshee",
+    ["Ghost Orbs", "Fingerprints", "DOTS"],
+    [
+      "Usar el micrófono parabólico para escuchar su grito.",
+      "Prestar atención a los eventos ya que hay más probabilidades de que sean cantos"
+    ]
+  ],
+  [
+    "Jinn",
+    ["Freezing Temps", "Fingerprints", "EMF 5"],
+    [
+      "No puede apagar interruptores de luz.",
+      "Cuanto más alejado al jugador está, más rápido corre."
+    ]
+  ],
+  [
+    "Mare",
+    ["Spirit Box", "Ghost Orbs", "Ghost Writing"],
+    [
+      "Ataca cuando está a oscuras.",
+      "Encender las luces disminuye las probabilidades de iniciar un ataque.",
+      "No puede encender las luces, pero si apagarlas (y hasta 3 al mismo tiempo)"
+    ]
+  ],
+  [
+    "Revenant",
+    ["Ghost Orbs", "Freezing Temps", "Ghost Writing"],
+    [
+      "Viajará a gran velocidad cuando ataque. Si no ve al jugador, es muy lento."
+    ]
+  ],
+  [
+    "Shade",
+    ["Freezing Temps", "EMF 5", "Ghost Writing"],
+    [
+      "Si más de 1 jugador se encuentra en la habitación, no va a activarse ni manifestarse.",
+      "Es difícil de encontrar porque prácticamente no tiene interacciones."
+    ]
+  ],
+  [
+    "Demon",
+    ["Freezing Temps", "Fingerprints", "Ghost Writing"],
+    [
+      "La frecuencia de ataques es mayor en comparación con los demás fantasmas",
+      "Porcentaje de cordura necesario para que ataque: 70%"
+    ]
+  ],
+  [
+    "Yurei",
+    ["Freezing Temps", "DOTS", "Ghost Orbs"],
+    [
+      "Cierra puertas completamente (no a medias como todos los fantasmas) y sin mostrarse",
+      "Los jugadores que estén cerca del Yurei verán reducida su cordura en un 15%."
+    ]
+  ],
+  [
+    "Oni",
+    ["Freezing Temps", "EMF 5", "DOTS"],
+    [
+      "Es más activo e interactúa con los objetos más seguido, sobre todo cuando hay más jugadores cerca.",
+      "Se manifiesta mucho más que otros fantasmas, y en su forma completa."
+    ]
+  ],
+  [
+    "Yokai",
+    ["Spirit Box", "Ghost Orbs", "DOTS"],
+    [
+      "Hablar por la Spirit box cerca de él lo enfadará, aumentando las posibilidades de un ataque",
+      "Si durante la caza el fantasma es fácil de perder y no sigue al jugador, puede ser un Yokai."
+    ]
+  ],
+  [
+    "Hantu",
+    ["Freezing Temps", "Fingerprints", "Ghost Orbs"],
+    [
+      "El Hantu siempre intentará cortar el cuadro de luz porque le favorece provocar temperaturas bajas."
+    ]
+  ],
+  [
+    "Goryo",
+    ["EMF 5", "Fingerprints", "DOTS"],
+    [
+      "Cuando pasa a través de un proyector DOTS, sólo puede verse con una cámara. Y solo va a interactuar con este si no hay jugadores en la misma habitación."
+    ]
+  ],
+  [
+    "Myling",
+    ["EMF 5", "Fingerprints", "Ghost Writing"],
+    [
+      "Solo se escuchan sus pasos y gritos a menos de 12m de distancia con el jugador."
+    ]
+  ],
+  [
+    "The Twins",
+    ["Spirit Box", "Freezing Temps", "EMF 5"],
+    [
+      "Tiene una doble interacción en diferentes lugares o con diferentes objetos, y cada una puede arrojar una prueba de EMF.",
+      "Pueden cazar desde dos lugares diferentes, desde su ubicación actual o desde el lugar donde hizo su última interacción."
+    ]
+  ],
+  [
+    "Onryo",
+    ["Spirit Box", "Freezing Temps", "Ghost Orbs"],
+    [
+      "Apaga con más frecuencia las fuentes de calor (vela, mechero, hoguera). Cada tercer vela que apague puede iniciar una cacería.",
+      "Si intenta cazar a menos 4m de distancia de una vela, apagará la llama y la caza fracasará. Si tanto una vela como un crucifijo están dentro del rango, la vela tendrá prioridad para detener la caza."
+    ]
+  ],
+  [
+    "Obake",
+    ["EMF 5", "Fingerprints", "Ghost Orbs"],
+    [
+      "Cada vez que interactúa con una superficie, tiene 25% de probabilidades de no dejar una huella dactilar.",
+      "Tiene un patrón de huellas dactilares único que pueden ser: una mano de 6 dedos, dos huellas dactilares en el mismo interruptor de luz, 5 huellas en teclados y puertas de las celdas de prisión."
+    ]
+  ],
+  [
+    "Raiju",
+    ["EMF 5", "Ghost Orbs", "DOTS"],
+    [
+      "Cuando se manifiesta durante un evento o una cacería, interferirá con los dispositivos electrónicos que estén a una distancia de 15m"
+    ]
+  ],
+  [
+    "The Mimic",
+    ["Spirit Box", "Fingerprints", "Freezing Temps", "Ghost Orbs"],
+    [
+      "Es capaz de copiar el comportamiento y las características de cualquier otro fantasma.",
+      "Cambiará de fantasma cada 2 minutos.",
+      "Siempre van a observarse Orbes en la habitación del Mimico, pero esto no es una prueba"
+    ]
+  ],
+  [
+    "Moroi",
+    ["Spirit Box", "Freezing Temps", "Ghost Writing"],
+    [
+      "Al hablar por la Spirit box o por el micrófono parabólico, inicia una maldición a la persona que utilizó el instrumento y duplicará su perdida de cordura pasiva. Para detener la maldición se debe tomar una pastilla de cordura o alejarse de la habitación."
+    ]
+  ],
+  [
+    "Deogen",
+    ["Spirit Box", "DOTS", "Ghost Writing"],
+    [
+      "Si se hace una pregunta por la Spirit box y el jugador se encuentra a menos de 1 metro del fantasma, hay 33% de probabilidades con cada pregunta de reproducir un sonido único"
+    ]
+  ],
+  [
+    "Thaye",
+    ["DOTS", "Ghost Orbs", "Ghost Writing"],
+    [
+      "Cuanto más tiempo pase el jugador en la habitación, mas lento y menos agresivo se hace el fantasma. (Se activa cada 2 minutos y si no hay nadie en la habitación, el fantasma no modifica su velocidad ni su nivel de agresión)"
+    ]
+  ]
+]
